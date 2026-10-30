@@ -179,18 +179,6 @@ The unit tests verify:
 Note: Diagnostic endpoints are for local development.
 They must be protected or disabled in production.
 
-## Screenshots
-
-Add screenshots showing:
-
-1. Running Express server
-2. Successful configuration health check
-3. Initial OAuth token response
-4. Cached OAuth token response
-5. Timestamp/password response
-6. Passing unit tests
-7. Daraja API health check
-
 ## Future Improvements
 
 - Implement STK Push payments.
